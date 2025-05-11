@@ -1,0 +1,16 @@
+# Ignore Visual Studio folders
+.vs/
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore logs and temporary files
+*.log
+*.cache
+
+# Ignore sensitive files
+*.db
+*.sqlite
